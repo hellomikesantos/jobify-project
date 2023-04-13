@@ -33,7 +33,7 @@ const Home = () => {
             <ScrollView showsVerticalScrollIndicator={false}>
                 <View
                  style={{
-                    flex: 0,
+                    flex: 1,
                     padding: SIZES.medium
                  }}
                  >
