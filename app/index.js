@@ -9,7 +9,7 @@ import {
 } from '../components';
 
 
-
+gi
 const Home = () => {
     const router = useRouter();
 
@@ -33,7 +33,7 @@ const Home = () => {
             <ScrollView showsVerticalScrollIndicator={false}>
                 <View
                  style={{
-                    flex: 1,
+                    flex: 0,
                     padding: SIZES.medium
                  }}
                  >
